@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+@font-face {
+	font-family: Graphik;
+	src: url(/my-app/src/assets/font/GraphikLCG-Regular.woff),
+		url(/my-app/src/assets/font/GraphikLCG-Regular.woff2);
+}

@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+@font-face {
+	font-family: Graphik;
+	src: url(/my-app/src/assets/font/GraphikLCG-Regular.woff),
+		url(/my-app/src/assets/font/GraphikLCG-Regular.woff2);
+}
+
+.bg-block {
+	background: linear-gradient(
+			0deg,
+			var(--bg-inverse-tp-4, rgba(33, 33, 33, 0.04)) 0%,
+			var(--bg-inverse-tp-4, rgba(33, 33, 33, 0.04)) 100%
+		),
+		var(--bg-primary, #fff);
+}
