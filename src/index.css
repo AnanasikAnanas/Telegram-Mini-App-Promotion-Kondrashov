@@ -13,4 +13,18 @@
 			var(--bg-inverse-tp-4, rgba(33, 33, 33, 0.04)) 100%
 		),
 		var(--bg-primary, #fff);
+		border-radius: 32px
+}
+
+.custom-pagination .swiper-pagination-bullet {
+  @apply w-24 h-1.5 bg-gray-400 rounded-md transition-all duration-300;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+  @apply bg-gray-500;
+}
+
+.swiper-slide{
+	display: flex;
+	justify-content: center;
 }

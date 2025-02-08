@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Header } from './sections/Header'
 import { Home } from './sections/Home'
+import { Cases } from './sections/Cases'
 
 function App() {
 	return (
@@ -12,6 +13,7 @@ function App() {
 				<Header />
         <Home/>
 			</div>
+			<Cases/>
 		</div>
 	)
 }

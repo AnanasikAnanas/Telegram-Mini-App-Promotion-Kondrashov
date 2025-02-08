@@ -11,7 +11,7 @@ export const Home = () => {
 				</div>
 				<button className='px-8 py-5 rounded-full bg-[#2196F3] w-fit text-white text-xl cursor-pointer'>Хочу мини-приложение!</button>
 			</div>
-			<video src="/308171b5d94010f0aac153677f31357226d13e53.mp4" controls className='rounded-2xl'></video>
+			<video src="/308171b5d94010f0aac153677f31357226d13e53.mp4" controls className='rounded-2xl max-w-[60.125rem]'></video>
 		</section>
 	)
 }
