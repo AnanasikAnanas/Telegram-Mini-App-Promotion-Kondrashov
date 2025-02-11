@@ -5,6 +5,9 @@ import './App.css'
 import { Header } from './sections/Header'
 import { Home } from './sections/Home'
 import { Cases } from './sections/Cases'
+import { Advantages } from './sections/Advantages'
+import { WhyTg } from './sections/WhyTg'
+import { ShowCases } from './sections/ShowCases'
 
 function App() {
 	return (
@@ -14,6 +17,9 @@ function App() {
         <Home/>
 			</div>
 			<Cases/>
+			<Advantages/>
+			<WhyTg/>
+			<ShowCases/>
 		</div>
 	)
 }
