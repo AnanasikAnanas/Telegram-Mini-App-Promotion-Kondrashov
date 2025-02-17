@@ -8,6 +8,8 @@ import { Cases } from './sections/Cases'
 import { Advantages } from './sections/Advantages'
 import { WhyTg } from './sections/WhyTg'
 import { ShowCases } from './sections/ShowCases'
+import { HowItWorks } from './sections/HowItWorks'
+import ContactForm from './sections/ContactForm'
 
 function App() {
 	return (
@@ -20,6 +22,8 @@ function App() {
 			<Advantages/>
 			<WhyTg/>
 			<ShowCases/>
+			<HowItWorks/>
+			<ContactForm/>
 		</div>
 	)
 }
