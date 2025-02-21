@@ -15,7 +15,11 @@
 		var(--bg-primary, #fff);
 		border-radius: 32px
 }
-
+@media (max-width: 375px) {
+  .bg-block{
+		border-radius: 24px;
+	}
+}
 .custom-pagination .swiper-pagination-bullet {
   @apply w-24 h-1.5 bg-gray-400 rounded-md transition-all duration-300;
 }
@@ -28,4 +32,8 @@
 	display: flex;
 	justify-content: center;
 	width: fit-content;
+}
+
+@theme{
+	--breakpoint-xs: 23.4375rem;
 }

@@ -5,3 +5,14 @@
 	src: url(/my-app/src/assets/font/GraphikLCG-Regular.woff),
 		url(/my-app/src/assets/font/GraphikLCG-Regular.woff2);
 }
+
+@theme{
+	--breakpoint-xs: 23.5rem;
+}
+
+.swiper-slide{
+	display: flex;
+	justify-content: center;
+	flex-shrink: 1;
+	flex-grow: 1;
+}
