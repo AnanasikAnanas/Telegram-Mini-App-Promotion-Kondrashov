@@ -22,42 +22,42 @@ export const SliderShowCases = () => {
 			>
 				<SwiperSlide className='w-fit'>
 					<img
-						src='/Снимок экрана 2025-02-11 115407.png'
+						src='Снимок экрана 2025-02-11 115407.png'
 						alt=''
 						className='w-fit'
 					/>
 				</SwiperSlide>
 				<SwiperSlide className='w-full'>
 					<img
-						src='/Снимок экрана 2025-02-11 115436.png'
+						src='Снимок экрана 2025-02-11 115436.png'
 						alt=''
 						className='w-fit'
 					/>
 				</SwiperSlide>
 				<SwiperSlide className='w-full'>
 					<img
-						src='/Снимок экрана 2025-02-11 115449.png'
+						src='Снимок экрана 2025-02-11 115449.png'
 						alt=''
 						className='w-fit'
 					/>
 				</SwiperSlide>
 				<SwiperSlide className='w-fit'>
 					<img
-						src='/Снимок экрана 2025-02-11 115407.png'
+						src='Снимок экрана 2025-02-11 115407.png'
 						alt=''
 						className='w-fit'
 					/>
 				</SwiperSlide>
 				<SwiperSlide className='w-full'>
 					<img
-						src='/Снимок экрана 2025-02-11 115436.png'
+						src='Снимок экрана 2025-02-11 115436.png'
 						alt=''
 						className='w-fit'
 					/>
 				</SwiperSlide>
 				<SwiperSlide className='w-full'>
 					<img
-						src='/Снимок экрана 2025-02-11 115449.png'
+						src='Снимок экрана 2025-02-11 115449.png'
 						alt=''
 						className='w-fit'
 					/>
