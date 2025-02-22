@@ -14,7 +14,7 @@ export const ShowCases = () => {
 						качественного пользовательского опыта
 					</p>
 				</div>
-				<img src="/Clip path group.svg" alt="" className='w-fit'/>
+				<img src="Clip path group.svg" alt="" className='w-fit'/>
 			</div>
 			<div className='bg-[#ce343b] px-32 py-16 max-w-7xl rounded-4xl max-xs:px-14'>
 				<SliderShowCases/>

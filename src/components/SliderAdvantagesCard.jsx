@@ -19,28 +19,28 @@ export const SliderAdvantagesCard = () => {
 			>
 				<SwiperSlide>
 					<AdvantagesCard
-						img={'/Frame 782.png'}
+						img={'Frame 782.png'}
 						title={'Подходит для любой ниши:'}
 						text={'магазины, доставка, образование, недвижимость и др.'}
 					/>
 				</SwiperSlide>
 				<SwiperSlide>
 					<AdvantagesCard
-						img={'/Frame 783.png'}
+						img={'Frame 783.png'}
 						title={'Уведомления нового поколения:'}
 						text={'замените устаревшие SMS на интерактивные сообщения.'}
 					/>
 				</SwiperSlide>
 				<SwiperSlide>
 					<AdvantagesCard
-						img={'/Frame 785.png'}
+						img={'Frame 785.png'}
 						title={'Цифровизация и автоматизация:'}
 						text={'управляйте продажами и коммуникацией.'}
 					/>
 				</SwiperSlide>
 				<SwiperSlide>
 					<AdvantagesCard
-						img={'/Frame 784.png'}
+						img={'Frame 784.png'}
 						title={'Геймификация:'}
 						text={'вовлекайте клиентов через акции и розыгрыши.  '}
 					/>

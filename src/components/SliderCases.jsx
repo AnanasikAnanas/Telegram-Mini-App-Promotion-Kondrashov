@@ -42,13 +42,13 @@ export default function App() {
 					className='rounded-lg overflow-hidden flex items-center justify-center w-full max-w-2xl'
 				>
 					<SwiperSlide className='flex justify-center items-center h-fit w-full'>
-						<img src='/image-case1.png' alt='' className='' />
+						<img src='image-case1.png' alt='' className='' />
 					</SwiperSlide>
 					<SwiperSlide className='flex justify-center w-full'>
-						<img src='/image-case2.png' alt='' className='rounded-4xl' />
+						<img src='image-case2.png' alt='' className='rounded-4xl' />
 					</SwiperSlide>
 					<SwiperSlide className='flex justify-center w-full'>
-						<img src='/image-case3.png' alt='' className='rounded-4xl' />
+						<img src='image-case3.png' alt='' className='rounded-4xl' />
 					</SwiperSlide>
 				</Swiper>
 				{/* Кастомные стрелки */}

@@ -28,8 +28,8 @@ export const HowItWorks = () => {
 					понимание, как клиенты взаимодействуют с Вашим продуктом
 				</h4>
 			</div>
-			<img src="/Frame 835.png" alt="" className='block max-xs:hidden'/>
-			<img src="/Frame 830.png" alt="" className='hidden max-xs:block'/>
+			<img src="Frame 835.png" alt="" className='block max-xs:hidden'/>
+			<img src="Frame 830.png" alt="" className='hidden max-xs:block'/>
 		</section>
 	)
 }

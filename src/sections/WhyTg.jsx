@@ -3,7 +3,7 @@ import { WhyTgCase } from '../components/WhyTgCase'
 export const WhyTg = () => {
 	return (
 		<section className='bg-block pl-24 pr-12 flex gap-16 max-xs:flex-col max-xs:p-0 max-xs:gap-12' id='why-tg'>
-			<img src='/001 1.png' alt='' />
+			<img src='001 1.png' alt='' />
 			<div className='flex flex-col gap-12 justify-center max-xs:p-6 max-xs:gap-6'>
 				<h1 className='text-6xl max-xs:text-3xl font-medium'>
 					Почему Telegram?
